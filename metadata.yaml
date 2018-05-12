@@ -1,0 +1,33 @@
+_repo: Red-Pottage_14885
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cholmondeley, Mary
+    birthdate: 1859
+    deathdate: 1925
+    gutenberg_agent_id: '5732'
+    url: http://www.gutenberg.org/2009/agents/5732
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Cholmondeley
+description: 'Fans of nineteenth-century novels should flock to Mary Cholmondeley''s
+  Red Pottage. This novel takes an unflinching look at the social conventions and
+  strictures that dictated so many women''s life trajectories in the era -- often
+  with less-than-ideal outcomes for everyone involved. Following the lives of several
+  female friends, Red Pottage is a rare gem: an insightful social critique that is
+  a page-turning pleasure to read.'
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14885'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: Red Pottage
+url: http://www.gutenberg.org/ebooks/14885
